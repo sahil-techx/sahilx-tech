@@ -67,9 +67,7 @@ Git | GitHub | Maven | VS Code | Eclipse
 
 📧 Email: sahilshirke841@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sahil-shirke-dev  
-💻 GitHub: https://github.com/sahil-techx 
-📄 Resume: https://drive.google.com/file/d/15xHJI-89l_i4nnjBevzHeJM5wLt5XfeJ/view?usp=drive_link
+💻 GitHub: https://github.com/sahil-techx  
+📄 Resume: https://drive.google.com/file/d/15xHJI-89l_i4nnjBevzHeJM5wLt5XfeJ/view?usp=drive_link  
 
----
-
-⭐ *"Code. Learn. Build. Improve."*
+⭐ "Code. Learn. Build. Improve."
