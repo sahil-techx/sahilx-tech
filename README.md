@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-Java | SQL | Python  
+Java | SQL | Python
 
 ### ⚙️ Backend
 Spring Boot | REST APIs | Hibernate | Microservices  
@@ -57,11 +57,13 @@ Git | GitHub | Maven | VS Code | Eclipse
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-techx&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-techx&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=sahil-techx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-techx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+</p>
 
 ## 🌐 Connect With Me
 
