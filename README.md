@@ -17,7 +17,7 @@
 Java | SQL | Python  
 
 ### ⚙️ Backend
-Spring Boot | REST APIs | Hibernate | JDBC  
+Spring Boot | REST APIs | Hibernate | Microservices  
 
 ### 🗄️ Database
 MySQL  
