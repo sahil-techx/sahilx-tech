@@ -57,13 +57,13 @@ Git | GitHub | Maven | VS Code | Eclipse
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
+<p align="center">                           
+                                            
 <img src="https://github-readme-stats.vercel.app/api?username=sahil-techx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-techx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-techx&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-techx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </p>
 
