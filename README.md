@@ -49,7 +49,7 @@ Git | GitHub | Maven | VS Code | Eclipse
 
 ### 🔹 Student Result Management System
 - Java Swing + MySQL desktop application  
-- Automated marksheet generation system  
+- Automated marksheet generation syste  
 
 👉 https://github.com/sahil-techx/student-result-management  
 
